@@ -1,2 +1,1 @@
-# scripts
-test testoviy
+# paro4ka simple scriptov
