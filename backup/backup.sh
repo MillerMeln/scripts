@@ -3,7 +3,7 @@
 BACKUP_DIR="$HOME/backups"
 SOURCE_DIR="$1"
 DATE=$(date +%Y%m%d_%H%M%S)
-if [ -z "$SOURCE_DIR" ]; THEN
+if [ -z "$SOURCE_DIR" ]; then
 echo "Usage: $0 <directory_to_backup>"
 exit 1
 fi
